@@ -1,0 +1,327 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +1V8A
+K POWER, PWR
+$ENDCMP
+#
+$CMP +3V
+K POWER, PWR
+$ENDCMP
+#
+$CMP -1V8A
+K POWER, PWR
+$ENDCMP
+#
+$CMP 4013
+D Dual D  FlipFlop, Set & reset
+K CMOS DFF
+F http://www.onsemi.com/pub/Collateral/MC14013B-D.PDF
+$ENDCMP
+#
+$CMP 4013v2
+D Dual D  FlipFlop, Set & reset
+K CMOS DFF
+F http://www.onsemi.com/pub/Collateral/MC14013B-D.PDF
+$ENDCMP
+#
+$CMP 74HC245
+D Octal BUS Transceivers, 3 State out
+K HCMOS BUS 3State
+$ENDCMP
+#
+$CMP AD5174
+D CMOS, Low Voltage, 3-Wire Serially-Controlled, Matrix Switches
+K Matrix switch, 8x1
+$ENDCMP
+#
+$CMP AD5231
+D ANALOG DEVICES/TSSOP14
+$ENDCMP
+#
+$CMP AD5235
+D ANALOG DEVICES 1024-tap digital potentiometers
+K Digital potentiometer, Precies DAC
+$ENDCMP
+#
+$CMP AD5272
+D 1024-Position, 1% Resistor Tolerance Error, I2C Interface and 50-TP Memory Digital Rheostat
+K Digital rheostat, potentiometer
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD5272_5274.pdf
+$ENDCMP
+#
+$CMP AD7124-4
+D 4-Channel, Low Noise, Low Power, 24-Bit, Sigma-Delta ADC with PGA and Reference
+K ADC, Low Noise, Low Power
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD7124-4.pdf
+$ENDCMP
+#
+$CMP AD8029AKSZ
+D Low Power, High Speed Rail-to-Rail Input/Output Amplifier
+K Op Amps, Low Power, Hig speed, Rail-to-Rail
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8029_8030_8040.pdf
+$ENDCMP
+#
+$CMP AD8033ART
+D Low Cost, 80 MHz FastFET Op Amps
+K FastFET Op Amps
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8033_8034.pdf
+$ENDCMP
+#
+$CMP AD8422
+D Instrumentation amplifier
+K INSTRUMENTATION
+F analog-dev/AD620.pdf
+$ENDCMP
+#
+$CMP AD8476
+D Low Power, Unity Gain, Fully Differential Amplifier and ADC Driver
+K Differential Amplifier, Unity Gain
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8476.pdf
+$ENDCMP
+#
+$CMP AD8541ART
+D CMOS Rail-to-Rail General-Purpose Amplifiers
+K Amplifiers
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8541_8542_8544.pdf
+$ENDCMP
+#
+$CMP ADA4077-1
+D 4 MHz, 7 nV/√Hz, Low Offset and Drift, High Precision Amplifiers
+K OPAmp, low offset, high precision
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADA4077-1_4077-2_4077-4.pdf
+$ENDCMP
+#
+$CMP ADA4805-1
+D 0.2 µV/°C Offset Drift, 105 MHz Low Power, Low Noise, Rail-to-Rail Amplifiers
+K OPamp, low power, raitl to rail
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADA4805-1_4805-2.pdf
+$ENDCMP
+#
+$CMP ADG3304BRUZ
+D Low Voltage, 1.15 V to 5.5 V, 4-Channel Bidirectional Logic Level Translators
+K  Logic Level Translators
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADG3304.pdf
+$ENDCMP
+#
+$CMP ADG3308BRUZ
+D Low Voltage, 1.15 V to 5.5 V, 8-Channel Bidirectional Logic Level Translators
+K  Logic Level Translators
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADG3308_3308-1.pdf
+$ENDCMP
+#
+$CMP ADG714
+D CMOS, Low Voltage Serially Controlled, Octal SPST Switches
+K SPST swithces
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADG714_715.pdf
+$ENDCMP
+#
+$CMP ADG715
+D CMOS, Low Voltage Serially Controlled, Octal SPST Switches
+K SPST swithces
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADG714_715.pdf
+$ENDCMP
+#
+$CMP ADG728
+D ANALOG DEVICES 1024-tap digital rheostat
+K Digital potentiometer, Precies DAC
+$ENDCMP
+#
+$CMP ADG733
+D CMOS, 2.5 Ohm Low Voltage, Triple SPDT Switches
+K SPDT Switches
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADG733_734.pdf
+$ENDCMP
+#
+$CMP ADG734
+D CMOS, 2.5 Ohm Low Voltage, Quad SPDT Switches
+K SPDT Switches
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADG733_734.pdf
+$ENDCMP
+#
+$CMP ADG738
+D ANALOG DEVICES 1024-tap digital rheostat
+K Digital potentiometer, Precies DAC
+$ENDCMP
+#
+$CMP ADG759
+D 3 Ohm, 4-/8-Channel Multiplexers in Chip Scale Package
+K Multiplexer
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADG758_759.pdf
+$ENDCMP
+#
+$CMP ADM7170
+D 6.5 V, 500 mA, Ultralow Noise, High PSRR, Fast Transient Response CMOS LDO
+K Ultralow Noise, LDO
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADM7170.pdf
+$ENDCMP
+#
+$CMP ADP7118
+D 20 V, 200 mA, Low Noise, CMOS LDO Linear Regulator
+K Low Noise, Linear Regulator
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADP7118.pdf
+$ENDCMP
+#
+$CMP ADP7182
+D –28 V, −200 mA, Low Noise, Linear Regulator
+K Low Noise, Linear Regulator
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADP7182.pdf
+$ENDCMP
+#
+$CMP BAV199
+D Dual diode
+K diode
+$ENDCMP
+#
+$CMP Crystal_GND24_Small
+D Two pin crystal, two ground/package pins (pin2 and 4) small symbol
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
+$CMP Crystal_GND24_Small_2
+D Two pin crystal, two ground/package pins (pin2 and 4) small symbol
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
+$CMP DAC8162-Q1
+D Automotive Dual 14-bit Low-Power, Buffered, Voltage-Output DACs With 2.5-V, 4-PPM/°C Internal Reference
+K DAC, Dual DAC,
+$ENDCMP
+#
+$CMP EA_DOGM132-5
+D DOGM GRAPHIC SERIES 132x32 DOTS
+K LCD, 132x32 DOTS
+F https://www.lcd-module.de/eng/pdf/grafik/dogm132-5e.pdf
+$ENDCMP
+#
+$CMP EA_DOGXL160W-7
+D Dot matrix LCD display
+K LDC, Display
+F https://www.lcd-module.com/eng/pdf/grafik/dogxl160-7e.pdf
+$ENDCMP
+#
+$CMP FOX924B-xxMHz
+D 3.3V Ultra Miniature SMD HCMOS TCXO/VCTCXO
+K TCXO, VCTCXO
+F https://www.mouser.com/ds/2/160/fox924-18323.pdf
+$ENDCMP
+#
+$CMP FT245RL
+D Interface USB FIFO [SSOP-28]
+K USB, FIFO
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT245R.pdf
+$ENDCMP
+#
+$CMP GNDA2
+K POWER, PWR
+$ENDCMP
+#
+$CMP KTANA-CONN_02X08
+D Connector 02x08
+$ENDCMP
+#
+$CMP M74VHC1GT125DT1G
+D Noninverting Buffer / CMOS Logic Level Shifter with LSTTL−Compatible Inputs
+K Digital buffer, Level shifter
+F http://www.onsemi.com/pub_link/Collateral/MC74VHC1GT125-D.PDF
+$ENDCMP
+#
+$CMP MAX1595EUA50
+D Regulated 3.3V/5.0V Step-Up/Step-Down Charge Pump
+K Charge Pump, Regulator
+F https://datasheets.maximintegrated.com/en/ds/MAX1595.pdf
+$ENDCMP
+#
+$CMP NC7S04
+D TinyLogic HS Inverter
+K Inverter, TinyLogic
+F http://www.mouser.com/ds/2/149/NC7S04-116378.pdf
+$ENDCMP
+#
+$CMP PCA9306
+D I2C Level Shifter
+K I2C. Level Shift
+F http://www.nxp.com/documents/data_sheet/PCA9306.pdf
+$ENDCMP
+#
+$CMP PCF2129T
+D RTC
+K RTC
+F https://www.nxp.com/docs/en/data-sheet/PCF2129.pdf
+$ENDCMP
+#
+$CMP REF3112
+D Voltage Reference 15ppm/°C Maximum, 100-µA
+K Reference
+F http://www.ti.com/lit/ds/sbvs046d/sbvs046d.pdf
+$ENDCMP
+#
+$CMP REG104FA-XXKTT
+D DMOS 1A Low-Dropout Regulator
+K LDO, Regulatr
+F http://www.ti.com/lit/ds/symlink/reg104.pdf
+$ENDCMP
+#
+$CMP SN74AVC1T45
+D Single-Bit Dual-Supply Bus Transceiver with Configurable Voltage
+K Voltage level translator
+F http://www.mouser.com/ds/2/405/sn74avc1t45-406235.pdf
+$ENDCMP
+#
+$CMP SN74AVC4T245
+D SN74AVC4T245 Dual-Bit Bus Transceiver with Configurable Voltage Translation
+K TTL BUS 3State, Voltage Translastion
+F http://www.ti.com/lit/ds/symlink/sn74avc4t245.pdf
+$ENDCMP
+#
+$CMP STUSB4500
+D Standalone USB PD sink controller with short-to-VBUS protections
+K USB, PD sink
+F https://www.st.com/resource/en/datasheet/stusb4500.pdf
+$ENDCMP
+#
+$CMP TLV320AIC3254
+D TLV320AIC3254 Ultra Low Power Stereo Audio Codec with Embedded miniDSP
+K Audo ADC DAC, Audo codec
+F http://www.ti.com/lit/ds/symlink/tlv320aic3254.pdf
+$ENDCMP
+#
+$CMP TLV320DAC3203
+D TLV320AIC3254 Ultra Low Power Stereo Audio Codec with Embedded miniDSP
+K Audo ADC DAC, Audo codec
+F http://www.ti.com/lit/ds/symlink/tlv320aic3254.pdf
+$ENDCMP
+#
+$CMP TPS2115PW
+D Auto/Manual siwtchin power multiplexer
+K power multiplexer
+F http://www.ti.com/lit/ds/symlink/tps2115.pdf
+$ENDCMP
+#
+$CMP TPS61221DCK
+D StepUp converter
+$ENDCMP
+#
+$CMP TPS709xx
+D 150-mA, 30-V, 1-µA IQ Voltage Regulators with Enable
+K LDO, Regulator
+F http://www.ti.com/lit/ds/symlink/tps709-q1.pdf
+$ENDCMP
+#
+$CMP TPS7A3001
+D –35-V, –200-mA, Ultralow-Noise, Negative Linear Regulator
+K Negative linear regulator, adjustable
+F http://www.ti.com/lit/ds/symlink/tps7a30.pdf
+$ENDCMP
+#
+$CMP TPS7A4901
+D 35-V, 200-mA, Ultralow-Noise, Negative Positive Regulator
+K Positive linear regulator, adjustable
+F http://www.ti.com/lit/ds/symlink/tps7a49.pdf
+$ENDCMP
+#
+$CMP V+
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+#End Doc Library
